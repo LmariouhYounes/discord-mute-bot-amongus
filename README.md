@@ -1,0 +1,2 @@
+# discord-mute-bot-amongus
+Among Us Bot allows you to play Among Us with friends without having to worry about people forgetting to mute, unmuting when dead or any of those pesky things that come with playing in a voice chat on Discord.  I created this bot as a side project but it has become a very important project that I am constantly improving and working on from user feedback and bug reports. Feel free to invite the bot to your servers and enjoy playing Among Us with friends.
